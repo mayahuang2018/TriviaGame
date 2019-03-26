@@ -1,0 +1,14 @@
+html{
+ background:
+ url(images/002.jpg) fixed ;
+}
+
+.display-4{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.jumbotron{
+    margin-top: 100px;
+    font-family: 'Special Elite', cursive;
+}
