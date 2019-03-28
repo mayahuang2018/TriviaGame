@@ -3,12 +3,24 @@ html{
  url(images/002.jpg) fixed ;
 }
 
-.display-4{
+.display-4,#qZone,#aList{
     font-family: 'Gloria Hallelujah', cursive;
 }
-
 
 .jumbotron{
     margin-top: 100px;
     font-family: 'Special Elite', cursive;
+}
+
+#qZone{
+    padding: 10px;
+}
+
+.thisChoice{
+    padding: 5px;
+}
+.thisChoice:hover{
+	background-color:darkslategray;
+	color: orange;
+	padding: 10px;
 }
